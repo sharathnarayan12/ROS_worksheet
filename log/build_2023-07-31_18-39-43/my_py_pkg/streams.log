@@ -1,0 +1,70 @@
+[1.653s] Invoking command in '/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/src/my_py_pkg': PYTHONPATH=/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/prefix_override:/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build install --record /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed
+[2.206s] /home/sharath/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.206s]   warnings.warn(
+[2.236s] running egg_info
+[2.237s] creating ../../build/my_py_pkg/my_py_pkg.egg-info
+[2.238s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[2.238s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[2.238s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[2.238s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[2.238s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[2.238s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.240s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.241s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.241s] running build
+[2.241s] running build_py
+[2.241s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build
+[2.241s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib
+[2.241s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/add_two_ints_client_no_oop.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/__init__.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/my_first_node.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/number_publisher.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/number_counter.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/template_python_node.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/add_two_ints_server.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.242s] copying my_py_pkg/robot_news_station.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.243s] copying my_py_pkg/smartphone.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.243s] copying my_py_pkg/add_two_ints_client.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg
+[2.243s] running install
+[2.243s] running install_lib
+[2.243s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client_no_oop.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/number_publisher.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/number_counter.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/template_python_node.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.244s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.245s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.245s] copying /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client.py -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.247s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client_no_oop.py to add_two_ints_client_no_oop.cpython-310.pyc
+[2.247s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[2.247s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[2.247s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher.py to number_publisher.cpython-310.pyc
+[2.248s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_counter.py to number_counter.cpython-310.pyc
+[2.248s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/template_python_node.py to template_python_node.cpython-310.pyc
+[2.248s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[2.249s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[2.249s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[2.250s] byte-compiling /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[2.250s] running install_data
+[2.251s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/share/ament_index
+[2.251s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/share/ament_index/resource_index
+[2.251s] creating /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.251s] copying resource/my_py_pkg -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.251s] copying package.xml -> /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/share/my_py_pkg
+[2.251s] running install_egg_info
+[2.254s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[2.255s] running install_scripts
+[2.292s] Installing add_two_ints_client script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.292s] Installing add_two_ints_client_no_oop script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.292s] Installing add_two_ints_server script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.292s] Installing number_counter script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.293s] Installing number_publisher script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.293s] Installing py_node script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.293s] Installing robot_news_station script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.293s] Installing smartphone script to /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/my_py_pkg
+[2.293s] writing list of installed files to '/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/install.log'
+[2.319s] Invoked command in '/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/src/my_py_pkg' returned '0': PYTHONPATH=/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/prefix_override:/home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/build install --record /home/sharath/Downloads/code_end_section_6_services_ROS2_HUMBLE/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed
